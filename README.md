@@ -15,6 +15,8 @@ __Важно:__
 ![image](https://github.com/BlambaFlame/node.js_github_actions/assets/90152889/bcdb5985-1342-4d12-962c-8c4debe3269b)
 ![image](https://github.com/BlambaFlame/node.js_github_actions/assets/90152889/29b7fffe-9f46-45c3-8a5e-8521c61af90e)
 - Также исрользовался Docker для упаковки в контейнеры:
+![image](https://github.com/BlambaFlame/node.js_github_actions/assets/90152889/d1ad6f29-dc9a-4539-996d-0d058720b4b6)
+
 ![image](https://github.com/BlambaFlame/node.js_github_actions/assets/90152889/552690ac-cfd0-4933-9d3b-7be6d1034f0c)
 
 ![image](https://github.com/BlambaFlame/node.js_github_actions/assets/90152889/88c974dc-e6aa-470c-99b1-3a057338e4f2)
